@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+
+# Certificates and keys
+*.crt
+*.key
+*.pub
+
+# Runtime data
+data/document_metadata.json
+data/documents/*
+!data/documents/.gitkeep
