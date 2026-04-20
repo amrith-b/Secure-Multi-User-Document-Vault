@@ -64,18 +64,4 @@ This project was built as part of cybersecurity systems work and refined into a 
   - Integrity verification
   - Decryption for authorized users
 
-## Project Structure
 
-```text
-Secure-Multi-User-Document-Vault/
-├── client.py
-├── server.py
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── certs/
-├── userkeys/
-├── userpublickeys/
-└── data/
-    ├── documents/
-    └── document_metadata.json
